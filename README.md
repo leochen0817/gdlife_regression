@@ -1,1 +1,5 @@
 # gdlife_regression
+项目的目的：
+通过selenium2来每日回归项目PC页面功能
+通过appium来每日回归项目app页面功能
+若页面功能存在异常，输出错误日志
